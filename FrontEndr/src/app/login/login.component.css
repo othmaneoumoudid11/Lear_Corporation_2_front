@@ -1,0 +1,18 @@
+.content
+{
+    max-width: 500px;
+    margin: auto;
+    background-color: aliceblue;
+    padding: 2% 2%;
+}
+
+button
+{
+    background-color: black;
+    color: blanchedalmond;
+}
+
+button:hover
+{
+    color: blanchedalmond;
+}
